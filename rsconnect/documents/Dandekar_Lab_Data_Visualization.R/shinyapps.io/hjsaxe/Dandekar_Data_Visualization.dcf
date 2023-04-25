@@ -1,0 +1,14 @@
+name: Dandekar_Data_Visualization
+title: Dandekar_Data_Visualization
+username:
+account: hjsaxe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8633704
+bundleId: 7111458
+url: https://hjsaxe.shinyapps.io/Dandekar_Data_Visualization/
+when: 1681944419.69841
+lastSyncTime: 1681944419.69846
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.R|SCRI_RNAseq.csv
